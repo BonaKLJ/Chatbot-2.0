@@ -1,0 +1,64 @@
+Alex Rivera
+Computer Science
+
+Phone: +1 555 019 2834
+Email: alex.rivera@example.com
+Date of Birth: 15 Mar 2002
+Marital Status: Single
+Address: 123 Fiction Lane, Sample City, SC 12345
+
+ABOUT ME
+Computer Science graduate with a strong passion for Artificial Intelligence and Machine Learning. Experienced in programming and data-driven problem-solving, with a focus on building intelligent systems and scalable web applications that address real-world challenges.
+
+EDUCATION
+Sample City High School
+High School Diploma
+2016-2020
+
+Global Language Institute
+Language Immersion Course
+2020-2021
+
+Metropolitan University
+Bachelor's Degree in Computer Science
+2021-2025
+
+DataTech Training Center
+Data Analysis
+2025-Present
+
+EXPERIENCE
+Apex Financial Services — Operations Associate
+(Mar 2022 – Feb 2024)
+- Processed and verified daily financial transactions with accuracy and compliance.
+- Resolved inquiries and operational issues raised by branches and clients.
+
+Horizon Logistics Co Ltd — Sales Order Administrator
+(Mar 2024 – Nov 2024)
+- Managed and tracked sales orders, coordinating between teams to ensure timely delivery.
+- Processed returns of damaged or surplus vendor inventory.
+
+NovaTech Consulting — Software Engineering Internship
+(Jan 2025 – Jul 2025)
+- Designed reporting modules and retrieved structured data using SQL and Python.
+- Assisted in unit testing, API validation, and quality assurance.
+
+SKILLS
+- SQL, Python, C++
+- Power BI
+- Docker, Git
+- Teamwork and Collaboration
+- Computer Literacy
+- Problem Solving
+- Communication Skills
+- Leadership and Initiative
+
+LANGUAGES
+- English
+- Spanish
+
+HOBBIES
+- Gaming
+- Open Source Development
+- Chess
+- Hiking

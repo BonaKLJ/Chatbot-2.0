@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+
+# IDE configurations
+.vscode/
+
+# Resume data (real resumes kept private; examples/ subfolder is tracked)
+data/*.txt
+
+# Ignore everything in data/ except the examples folder
+data/*
+!data/examples/
