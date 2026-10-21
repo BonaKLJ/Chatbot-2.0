@@ -16,8 +16,8 @@ if str(BACKEND_DIR) not in sys.path:
     sys.path.insert(0, str(BACKEND_DIR))
 
 from rag.chunker import chunk_text
-from db.models import Document
-from db.connection import get_db
+from db.models import Base, Document
+from db.connection import engine, get_db
 
 # Path to the data directory containing text documents
 DATA_DIR = BACKEND_DIR.parent / "data"
@@ -39,6 +39,8 @@ def ingest_documents(data_dir: Path | str = DATA_DIR) -> None:
       5. Save chunks and their embeddings into the database.
       6. Commit changes and display an ingestion summary.
     """
+    Base.metadata.create_all(engine)
+
     data_path = Path(data_dir)
     if not data_path.exists():
         print(f"Data directory '{data_path}' does not exist.")
